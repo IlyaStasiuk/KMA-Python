@@ -1,0 +1,1 @@
+print("Ilya Stasiuk, Python-4")
